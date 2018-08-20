@@ -1,5 +1,7 @@
 <?php
 
-	echo "Olá mundo!"
-	echo "olá seus bunda mole";
+
+	echo "Olá mundão!"
+	echo "Olá Hcode!"
 ?>
+
